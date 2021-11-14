@@ -1,11 +1,11 @@
 # Goodsted Opportunities Clone
 
-I clonned the page ["https://staging.goodsted.com/opportunities"] using React. 
+I cloned the page ["https://staging.goodsted.com/opportunities"] using React. 
 
 
 # Aspects 
 
-All data (and filtered data) is fetched from Goodsted API. Therefore, all data shown is up to date and all filters works exactly how they should. The clonned webpage is responsive to all screen sizes. Altough the clone looks very similar with the original page, this is not pixel-perfect.
+All data (and filtered data) is fetched from Goodsted API. Therefore, all data shown is up to date and all filters works exactly how they should. The cloned webpage is responsive to all screen sizes. Altough the clone looks very similar with the original page, this is not pixel-perfect.
 
 
 # Running The Project
